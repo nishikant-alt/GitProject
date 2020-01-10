@@ -4,10 +4,20 @@ welcome to git...
 
 feature 1 -login -update in login
 
-feature 1 - logout
+feature 1 - logout 
+
 
 bug1- bug fix
+
 
 threeWay-changes in the threeway branching
 
 changes made by the remotely or server side or other person
+
+
+threeWay-changes in the threeway branching
+
+
+
+local commit done by me also some changes
+File1 make some changes locally
